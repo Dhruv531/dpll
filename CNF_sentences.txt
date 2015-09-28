@@ -1,0 +1,11 @@
+5
+["or", "R", ["not", "B"], "W"]
+["and", "A", ["not", "A"]]
+["not", "P"]
+["and", ["or", "P", ["not", "R"]], ["or", ["not", "Q"], ["not", "R"], "P"]]
+["and", "A", ["or", "B", "C"], ["or", "B", "D"]]
+['and', ['or', 'P', ['not', 'Q']], ['or', ['not', 'P'], 'Q'], ['or', 'A', ['not', 'B']], ['or', ['not', 'A'], 'B']]
+["and", "A", ["or", "B", "C"], ["or", "B", "D"]] 
+["and", ["or", ["not", "S"], "Q"], ["or", ["not", "S"], "R"], ["or", ["not", "Q"], ["not", "R"], "S"], ["not", "Q"], "S"]
+["and", ["or", "P", "Q"], ["or", ["not", "P"], "R"], ["or", ["not", "R"], ["not", "P"]],  ["or", ["not", "Q"], "S", ["not", "T"]],"T"]
+["and", ["or", ["not", "P"], "Q"], ["or", ["not", "Q"], ["not", "P"]],  ["or", "P", ["not", "Q"]]]
